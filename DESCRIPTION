@@ -1,0 +1,23 @@
+Package: nuthum
+Type: Package
+Title: An R Implementation of the Nutrition Humanitarian Needs Analysis
+Version: 0.1.0
+Authors@R: c(
+    person(first = "Ernest", 
+           last = "Guevarra",
+           comment = c(ORCID = "0000-0002-4887-4415"),
+           email = "ernest@guevarra.io",
+           role = c("aut", "cre")),
+    person(first = "Aziz",
+           last = "Goza",
+           role = "aut"),
+    person(first = "Emmanuel",
+           last = "Mandalazi",
+           role = "auth")
+  )
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+Language: en-gb
+LazyData: true
